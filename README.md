@@ -1,4 +1,4 @@
-# League of Identity - PoC 
+# League of Identity - PoC [MOVED TO DIFFERENT REPO]
 This repo has been moved to [here](https://github.com/aragonzkresearch/leagueofidentity)
 ## Overview
 This repository provides an implementation of the ``League of Identity `` (`LoI`)  system described in this [note](https://hackmd.io/noiVZo2dTJ6Wiejt2IJvMg?view). 
